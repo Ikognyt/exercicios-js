@@ -1,0 +1,2 @@
+
+console.log(volvo.status())
