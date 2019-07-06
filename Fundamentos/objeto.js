@@ -16,3 +16,10 @@ const prod2 ={
 
 
 console.log(prod2);
+
+module.exports = {
+    prod2: prodDois = {
+        nome: 'Camisa Polo',
+        preco: 79.90
+    }
+}
